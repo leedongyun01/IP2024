@@ -5,7 +5,7 @@ IP2024
 
 ### [Homework 1][hw1link]
 [hw1link]: https://youtu.be/gmGGQnETNt0
-![Homework1](https://github.com/user-attachments/assets/2fcf5fa8-3c03-4a80-a122-222aa2cf4e7e)
+<img width="80%" src="https://github.com/user-attachments/assets/2fcf5fa8-3c03-4a80-a122-222aa2cf4e7e"/>
 ### [Homework 2][hw2link]
 [hw2link]: https://youtu.be/mRtuVvzEcHU
 ### Homework3
