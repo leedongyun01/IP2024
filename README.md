@@ -8,4 +8,4 @@ IP2024
 ### [Homework 2][hw2link]
 [hw2link]: https://youtu.be/mRtuVvzEcHU
 ### Homework3
-
+![ex_screenshot](./homework3.png)
