@@ -14,5 +14,5 @@ IP2024
 ![ex_screenshot](./homework3.png)
 
 ### [Homework 4][hw4link]
-[hw4link]: https://youtu.be/mRtuVvzEcHU
+[hw4link]: https://www.youtube.com/watch?v=reNW9nLBRlI
 <img width="60%" src="https://github.com/user-attachments/assets/d0d7082c-a06a-49f5-ba39-92aeeab727dc"/>
