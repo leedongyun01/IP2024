@@ -11,7 +11,7 @@ IP2024
 <img width="60%" src="https://github.com/user-attachments/assets/d2de4f90-6934-4748-a8ab-7bda443336eb"/>
 
 ### Homework3
-![ex_screenshot](./homework3.png)
+<img width="60%" src="https://github.com/user-attachments/assets/48395e3a-2577-4cf6-a3db-aae3f7912f8c"/>
 
 ### [Homework 4][hw4link]
 [hw4link]: https://www.youtube.com/watch?v=reNW9nLBRlI
