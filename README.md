@@ -16,3 +16,6 @@ IP2024
 ### [Homework 4][hw4link]
 [hw4link]: https://www.youtube.com/watch?v=reNW9nLBRlI
 <img width="60%" src="https://github.com/user-attachments/assets/d0d7082c-a06a-49f5-ba39-92aeeab727dc"/>
+
+### Homework3
+<img width="60%" src="https://github.com/user-attachments/assets/a5d929b7-4886-4e05-b4e8-aaf9f49af368"/>
